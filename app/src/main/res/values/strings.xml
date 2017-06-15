@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnePieceAnimation</string>
+    <string name="textview_title">Today you feel like ...</string>
+    <string name="textview_subtitle">Press and Hold the OnePiece logo to Start ... </string>
+</resources>
